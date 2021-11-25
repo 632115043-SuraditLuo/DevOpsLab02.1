@@ -143,7 +143,7 @@ Hotkey:
 
   Friend
   -----------------------------
-  Yanawarut Kanwana 632115014
+  Yanawarut Kanwana 632115014  Hello muh lovely gachimachi friend
   Worawut Aunkham 632115039
 
   Accept Worawut Aunkham 632115039
