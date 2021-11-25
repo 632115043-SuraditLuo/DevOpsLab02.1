@@ -140,3 +140,8 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
     :mask:
+
+  Friend
+  -----------------------------
+  Yanawarut Kanwana 632115014
+  Worawut Aunkham 632115039
